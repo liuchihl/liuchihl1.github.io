@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -64,9 +64,9 @@ sections:
       items:
         - title: Graduate Research Assistant
           company: Institute of Oceanography, National Taiwan University
-          company_url: ''
-          company_logo: org-gc
-          location: California
+          company_url: 'http://www.oc.ntu.edu.tw/oceng/'
+          company_logo: 
+          location: Taipei, Taiwan
           date_start: '2021-01-01'
           date_end: ''
           description: |2-

@@ -63,22 +63,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-         - title: Fluid Dynamics of Sustainability and the Environment Summer School
-          company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
-          company_url: 'http://www.fdse.org/'
-          company_logo: 
-          location: Cambridge, UK
-          date_start: '2023-09-03'
-          date_end: '2023-09-15'
-          description: Two weeks of intense fluid dynamics-related lectures and laboratory experiments followed by a numerical project presentation
-        - title: Graduate Research Assistant
-          company: College of Earth, Ocean, and Atmospheric Sciences, Oregon State University
-          company_url: 'https://ceoas.oregonstate.edu/'
-          company_logo: 
-          location: Corvallis, USA
-          date_start: '2019-09-01'
-          date_end: '2023-11-30'
-          description: Under the supervision of [Bill Smyth](https://blogs.oregonstate.edu/salty/) and collaboration with [Alexis Kaminski](https://akkaminski.github.io/)
+         
         - title: Faculty Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'

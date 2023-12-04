@@ -67,14 +67,9 @@ sections:
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
           company_logo: 
           location: Taipei, Taiwan
-          date_start: '2021-01-01'
+          date_start: '2015-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description:  I was in [Ming-Huei Chang's](https://minghueichang.wixsite.com/smallocean) group. My project was about island wake modeling but I was also heavily invovled in field observations (participating 8 research cruises in the Phillipine Sea and South China Sea) 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''

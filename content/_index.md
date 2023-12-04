@@ -84,11 +84,13 @@ sections:
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
           company_logo: 
           location: Taipei
-          date_start: '2018-10'
-          date_end: '2019-09'
+          date_start: '2018-10-01'
+          date_end: '2019-09-01'
           description: |2-
-          *Engaged in the project entitled "Development of Shipwreck Drifting and Oil Pollution Forecasting Technology" with the Central Weather Bureau by conducting a 3D nested model. 
-          *Using a 2D model to explore the dynamics between the Kuroshio current and the I-Lan Ridge, located east of Taiwan. Additionally, I participated in a research cruise focused on measuring turbulence. 
+          
+            * Participated in the project titled "Development of Shipwreck Drifting and Oil Pollution Forecasting Technology" with the Central Weather Bureau, employing a 3D nested model for analysis.
+
+            * Utilized a 2D model to investigate the interactions between the Kuroshio current and the I-Lan Ridge, situated east of Taiwan. Moreover, took part in a research cruise dedicated to measuring turbulence.
     design:
       columns: '2'
   - block: accomplishments

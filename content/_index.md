@@ -51,6 +51,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -68,16 +69,26 @@ sections:
           company_logo: 
           location: Taipei, Taiwan
           date_start: '2015-09-01'
-          date_end: ''
+          date_end: '2017-08-11'
           description:  I was in [Ming-Huei Chang's](https://minghueichang.wixsite.com/smallocean) group. My project was about island wake modeling but I was also heavily invovled in field observations (participating 8 research cruises in the Phillipine Sea and South China Sea) 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Substitute Military Service (Obligatory Service)
+          company: 
+          company_url: 
+          company_logo: 
+          location: Chiayi, Taiwan
+          date_start: '2016-10-01'
+          date_end: '2018-10-01'
+          description: Provide care fro elderly retirees in a nursing home
+        - title: Falculty Research Assistant
+          company: Institute of Oceanography, National Taiwan University
+          company_url: 'http://www.oc.ntu.edu.tw/oceng/'
+          company_logo: 
+          location: Taipei
+          date_start: '2018-10'
+          date_end: '2019-09'
+          description: |2-
+          *Engaged in the project entitled "Development of Shipwreck Drifting and Oil Pollution Forecasting Technology" with the Central Weather Bureau by conducting a 3D nested model. 
+          *Using a 2D model to explore the dynamics between the Kuroshio current and the I-Lan Ridge, located east of Taiwan. Additionally, I participated in a research cruise focused on measuring turbulence. 
     design:
       columns: '2'
   - block: accomplishments

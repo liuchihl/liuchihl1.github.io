@@ -109,7 +109,7 @@ sections:
           description:  I was in [Ming-Huei Chang's](https://minghueichang.wixsite.com/smallocean) group. My project was about island wake modeling but I was also heavily involved in field observations (participating 8 research cruises in the Phillipine Sea and South China Sea)     
         
     design:
-      columns: '2'
+      # columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

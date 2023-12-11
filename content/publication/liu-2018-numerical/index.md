@@ -11,7 +11,7 @@ publication: '*Journal of Geophysical Research: Oceans*'
 ---
 
 url_pdf: 
-url_code: 'https://doi.org/10.1029/2017JC013501'
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''

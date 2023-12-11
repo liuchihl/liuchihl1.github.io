@@ -9,3 +9,12 @@ publication_types:
 - article-journal
 publication: '*Journal of Geophysical Research: Oceans*'
 ---
+
+url_pdf: 
+url_code: 'https://doi.org/10.1029/2017JC013501'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
